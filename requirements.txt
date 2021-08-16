@@ -1,0 +1,6 @@
+catsim == 0.15.6
+fastapi
+numpy
+redis
+preprocessing
+uvicorn[standard]

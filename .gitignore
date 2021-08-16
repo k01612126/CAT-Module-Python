@@ -1,0 +1,10 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+config.py
+__pycache__/config.cpython-37.pyc
+__pycache__/main.cpython-37.pyc
+config.py
+config.py
